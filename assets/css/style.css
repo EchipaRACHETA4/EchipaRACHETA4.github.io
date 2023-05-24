@@ -914,11 +914,11 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(103, 176, 209, 0.95);
+  background: rgba(216, 6, 6, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
-  border-left: 1px solid #8ec4dd;
+  border-left: 1px solid #D80606;
 }
 
 .portfolio .portfolio-wrap:hover::before {
