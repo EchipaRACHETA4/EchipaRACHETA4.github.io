@@ -624,7 +624,7 @@ section {
 
 .about .content .about-btn {
   display: inline-block;
-  background: #67b0d1;
+  background: #D80606;
   padding: 6px 44px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -703,7 +703,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #67b0d1;
+  background: #D80606;
   top: 0;
   border-radius: 0px;
 }
@@ -955,7 +955,7 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #67b0d1;
+  border: 1px solid #D80606;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
@@ -1089,7 +1089,7 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #67b0d1;
+  border: 1px solid #D80606;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
@@ -1282,7 +1282,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #67b0d1;
+  background: #D80606;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1322,7 +1322,7 @@ section {
   margin-bottom: 15px;
   background: white;
   color: #2f4d5a;
-  border-top: 4px solid #67b0d1;
+  border-top: 4px solid #D80606;
   text-align: center;
   padding: 30px 20px;
 }
@@ -1432,7 +1432,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #67b0d1;
+  background: #D80606;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
