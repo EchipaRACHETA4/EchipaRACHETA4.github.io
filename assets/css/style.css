@@ -16,11 +16,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #67b0d1;
+  color: #D80606;
 }
 
 a:hover {
-  color: #8ec4dd;
+  color: #D80606;
   text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 998;
-  background: #67b0d1;
+  background: #D80606;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -213,7 +213,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .navbar .dropdown:hover>ul {
@@ -261,7 +261,7 @@ h6 {
 .navbar .megamenu ul li a:hover,
 .navbar .megamenu ul li .active,
 .navbar .megamenu ul li .active:hover {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .navbar .megamenu:hover>ul {
@@ -355,7 +355,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .navbar-mobile .getstarted,
@@ -390,7 +390,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -406,7 +406,7 @@ h6 {
 .navbar-mobile .megamenu ul li a:hover,
 .navbar-mobile .megamenu ul li .active,
 .navbar-mobile .megamenu ul li .active:hover {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 /*--------------------------------------------------------------
@@ -649,7 +649,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #67b0d1;
+  color: #D80606;
   margin-bottom: 10px;
 }
 
@@ -715,7 +715,7 @@ section {
 .services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #67b0d1;
+  color: #D80606;
   transition: all 0.3s ease-in-out;
 }
 
@@ -759,7 +759,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 44px;
-  color: #67b0d1;
+  color: #D80606;
   float: left;
   line-height: 0;
 }
@@ -865,7 +865,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -959,7 +959,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #67b0d1;
+  background-color: #D80606;
 }
 
 .portfolio-details .portfolio-info {
@@ -1093,7 +1093,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #67b0d1;
+  background-color: #D80606;
 }
 
 /*--------------------------------------------------------------
@@ -1163,7 +1163,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #67b0d1;
+  color: #D80606;
 }
 
 .team .member .social i {
@@ -1194,7 +1194,7 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #67b0d1;
+  color: #D80606;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #f0f7fa;
@@ -1270,7 +1270,7 @@ section {
 
 .contact .php-email-form input::focus,
 .contact .php-email-form textarea::focus {
-  background-color: #67b0d1;
+  background-color: #D80606;
 }
 
 .contact .php-email-form input {
@@ -1358,7 +1358,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #67b0d1;
+  background: #D80606;
   color: #fff;
   text-decoration: none;
 }
