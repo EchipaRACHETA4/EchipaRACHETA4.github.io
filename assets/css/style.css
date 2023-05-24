@@ -526,7 +526,7 @@ section {
   width: 122px;
   height: 66px;
   background: url(../img/section-title-bg.png) no-repeat;
-  background-color: #FFAAAA;
+  color: #FFAAAA;
   z-index: -1;
 }
 
